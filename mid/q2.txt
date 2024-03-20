@@ -1,0 +1,22 @@
+what are correct steps you of the configuration WIFI router and its security system
+A. Do nmap scan the network
+B. Type "http//192.168.1.1" on your browser
+C. 'ping 192.168.1.1'
+D. Select a WiFi access SSID 'Polarbears' on you computer
+E. Type "ifconfig" and "ipconfig " on your computer
+
+when you use wifi monitoring tool scan the WIFI router, you see this WIFI show WEP security
+setting. what will you do to obtain the WIFI router cerdential?
+A. Do deautication
+B. Capture EAPOL
+c. ARP spoof
+d. flood encryted ARP request
+
+Which technique can be used to identify the data's integrity?
+A. Encryption
+B. hashing
+C. access control with multiface autrntication
+D. Digital singatur
+
+
+Coherer:Induction
